@@ -2,9 +2,13 @@
 
 ## About
 
-Uses queuing theory to simulate a queue with various options for queue type, selection function, and preemption strategy 
+Uses queuing theory to simulate a queue with various options for queue type, selection function, and preemption strategy.
 
-To run: 'make'
+To run: 
+
+```
+make
+```
 
 ## To Do
 
